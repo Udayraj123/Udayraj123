@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=udayraj123&show_icons=true" alt="udayraj123" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj123" alt="udayraj123" /> </p>
+<p align="left"> Github profile views (added April '21):  </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj123" alt="udayraj123" /> </p>
 
 
 📫 How to reach me: **udayrajdeshmukh7@gmail.com**
