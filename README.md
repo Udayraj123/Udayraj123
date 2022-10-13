@@ -30,7 +30,12 @@ Here are some ideas to get you started:
 
 📫 How to reach me: **udayrajdeshmukh7@gmail.com**
 
+## Hacktoberfest badges
+<a target="_blank" href="https://holopin.io/@udayraj123"> 
+   <img align="center" src="https://holopin.me/udayraj123" alt="@udayraj123's Holopin board" />
+</a>
 <p align="center">
+
 <!-- <a href="https://codepen.io/udayraj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="udayraj123" height="30" width="30" /></a> -->
 <a href="https://twitter.com/udayraj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="udayraj123" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/udayraj123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="udayraj123" height="30" width="30" /></a>
