@@ -28,7 +28,10 @@ Here are some ideas to get you started:
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=udayraj123" alt="udayraj123" /> </p>
 
 
-📫 How to reach me: **udayrajdeshmukh7@gmail.com**
+📫 How to reach me: 
+For quicker response for project queries, message me via the respective Discord server.
+
+For any other queries, please reach out to below my email: **udayrajdeshmukh7@gmail.com**
 <!-- 
 ## Hacktoberfest badges
 <a target="_blank" href="https://holopin.io/@udayraj123"> 
